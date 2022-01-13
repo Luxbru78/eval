@@ -1,0 +1,28 @@
+h3 {
+    color:black;
+text-decoration: underline;
+font-style: oblique;
+text-align: center;
+position: relative;
+left: 90px;
+bottom: 170px;
+font-size: 30px;
+
+
+     }
+  .a{
+      background-image:url("Logo.jpeg");
+      background-size: 150px 150px;
+      background-repeat: no-repeat;
+      background-position-x: 54 ;
+      background-position-y:26 ;
+  } 
+  header{
+      margin: 0;     
+      background: linear-gradient(rgb(255, 5, 26),rgba(17, 17, 17, 0.788));
+      position: relative;
+      height: 250px;
+      width: 500 px;
+  }
+  
+  
